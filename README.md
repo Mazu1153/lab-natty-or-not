@@ -20,19 +20,21 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Ophelios
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O projeto da Ophelios consiste na criação de uma inteligência artificial para modernizar e agilizar o trabalho na área da saúde ocupacional.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+D-ID, ChatGPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizando o ChatGPT para a crição do roteiro e o D-ID para a criação do video.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
+https://github.com/Mazu1153/lab-natty-or-not/assets/43455766/c53dfbc8-4e5d-4ac7-9671-3892e5dcafba
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
